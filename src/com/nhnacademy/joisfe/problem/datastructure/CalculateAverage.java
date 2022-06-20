@@ -1,4 +1,4 @@
-package com.nhnacademy.joisfe.datastructure;
+package com.nhnacademy.joisfe.problem.datastructure;
 
 import java.util.ArrayList;
 import java.util.List;
